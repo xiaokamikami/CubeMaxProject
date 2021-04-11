@@ -1,0 +1,9 @@
+/Drivers/
+/fireTools/
+/Core/
+/.vs/
+*.o
+*.d
+*.a
+*.crf
+*.uvprojx
